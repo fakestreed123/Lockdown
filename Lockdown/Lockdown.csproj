@@ -14,4 +14,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <PropertyGroup>
+   <codeAnalysisRuleset>../Style.ruleset</codeAnalysisRuleset>
+  </PropertyGroup>
+
 </Project>
