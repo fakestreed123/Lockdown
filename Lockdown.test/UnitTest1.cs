@@ -1,4 +1,4 @@
-namespace Lockdown.test;
+namespace Lockdown.Test;
 
 public class UnitTest1
 {
